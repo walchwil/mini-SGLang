@@ -31,3 +31,7 @@ env/
 # .vscode
 .vscode/
 .coverage
+
+# Markdown notes and documentation (all directories)
+*.[mM][dD]
+*.[mM][aA][rR][kK][dD][oO][wW][nN]
